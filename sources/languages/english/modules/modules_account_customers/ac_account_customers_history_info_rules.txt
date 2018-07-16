@@ -1,0 +1,6 @@
+
+ module_account_customers_history_info_rules_title = History Info : Do you want allow to display the order regulation contract ?
+ module_account_customers_history_info_rules_description = Display the order regulation contract
+
+ module_account_customers_history_info_heading_order_rules_conditions_of_sales = Order regulation contract
+ module_account_customers_history_info_rules_text_condition_general_of_sales = Display the order regulation contract

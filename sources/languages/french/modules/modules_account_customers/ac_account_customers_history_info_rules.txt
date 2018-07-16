@@ -1,0 +1,5 @@
+module_account_customers_history_info_rules_title = Historique Info : Souhaitez-vous permettre au client dans les historiques de commande ses conditions générales de vente?
+module_account_customers_history_info_rules_description = Affiche dans l'historiques de commande les conditions générales de vente liées à sa commande
+
+module_account_customers_history_info_heading_order_rules_conditions_of_sales = Contrat des conditions générales de vente
+module_account_customers_history_info_rules_text_condition_general_of_sales = Accéder à vos conditions générales de vente concernant cette vente
