@@ -32,7 +32,7 @@ All informations about the ClicShopping
  trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/modules_account_customers_history_info_download/blob/master/ModuleInfosJson/image.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_account_customers_history_info_rules/blob/master/ModuleInfosJson/image.png)
 
 
 
