@@ -13,11 +13,11 @@ use ClicShopping\OM\CLICSHOPPING;
 ?>
 <div class="col-md-<?php echo $content_width; ?>">
   <div class="separator"></div>
-    <script type="text/javascript"><!--
+    <script>
       function popupImageWindow(url) {
         window.open(url,'popupImageWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=600,height=600,screenX=150,screenY=150,top=150,left=150')
       }
-//--></script>
+    </script>
 
   <div class="card">
     <div class="card-header">
@@ -29,7 +29,7 @@ use ClicShopping\OM\CLICSHOPPING;
       <div class="separator"></div>
       <div class="card-text">
         <div class="separator"></div>
-        <i class="fas fa-arrow-right"></i>&nbsp;
+        <i class="bi bi-arrow-right"></i>&nbsp;
         <?php echo '<a href="javascript:popupImageWindow(\'' . 'index.php?Account&OrderConditions&order_id='. $info_link.'\')">' . CLICSHOPPING::getDef('module_account_customers_history_info_rules_text_condition_general_of_sales') . '</a>'; ?>
       </div>
     </div>
